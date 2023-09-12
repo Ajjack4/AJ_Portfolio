@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AJ_Portfolio/static/css/main.76b5468d.css",
+    "main.js": "/AJ_Portfolio/static/js/main.b5e96796.js",
+    "static/media/Resume.pdf": "/AJ_Portfolio/static/media/Resume.b5cf54b29d883927f418.pdf",
+    "index.html": "/AJ_Portfolio/index.html",
+    "static/media/blob-haikei.svg": "/AJ_Portfolio/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
+    "main.76b5468d.css.map": "/AJ_Portfolio/static/css/main.76b5468d.css.map",
+    "main.b5e96796.js.map": "/AJ_Portfolio/static/js/main.b5e96796.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76b5468d.css",
+    "static/js/main.b5e96796.js"
+  ]
+}
